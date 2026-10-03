@@ -249,3 +249,9 @@ Also, the architecture section clearly shows the separation we've built:
 **CLI → Services → Repositories → JSON**
 
 rather than making the README sound like the CLI itself is part of the business/domain layer.
+
+## License
+
+This project is licensed under the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
