@@ -1,0 +1,22 @@
+{
+    "1": {
+        "applicant_id": 1,
+        "name": "Mohamed Kamara",
+        "address": "Lumley"
+    },
+    "2": {
+        "applicant_id": 2,
+        "name": "Mariama Sesay",
+        "address": "Kissy"
+    },
+    "3": {
+        "applicant_id": 3,
+        "name": "Abdul Rahman",
+        "address": "Wilberforce"
+    },
+    "4": {
+        "applicant_id": 4,
+        "name": "Gleekan Williams",
+        "address": "Tengbeh Town"
+    }
+}

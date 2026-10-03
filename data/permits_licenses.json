@@ -1,0 +1,34 @@
+{
+    "1": {
+        "permit_license_id": 1,
+        "applicant_id": 1,
+        "permit_type": "Driving License",
+        "purpose": "New driving license",
+        "status": "Pending",
+        "officer_id": null
+    },
+    "2": {
+        "permit_license_id": 2,
+        "applicant_id": 2,
+        "permit_type": "Business Permit",
+        "purpose": "Permit for a small retail business",
+        "status": "Approved",
+        "officer_id": 2
+    },
+    "3": {
+        "permit_license_id": 3,
+        "applicant_id": 3,
+        "permit_type": "Building Permit",
+        "purpose": "Residential building construction",
+        "status": "Expired",
+        "officer_id": 3
+    },
+    "4": {
+        "permit_license_id": 4,
+        "applicant_id": 4,
+        "permit_type": "Driving License",
+        "purpose": "I want to buy a car.",
+        "status": "Approved",
+        "officer_id": 4
+    }
+}

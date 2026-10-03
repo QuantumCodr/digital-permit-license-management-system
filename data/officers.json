@@ -1,0 +1,22 @@
+{
+    "1": {
+        "officer_id": 1,
+        "name": "Fatmata Koroma",
+        "department": "Road Safety"
+    },
+    "2": {
+        "officer_id": 2,
+        "name": "Abdul Conteh",
+        "department": "Licensing Department"
+    },
+    "3": {
+        "officer_id": 3,
+        "name": "Hawa Sesay",
+        "department": "Municipal Permits"
+    },
+    "4": {
+        "officer_id": 4,
+        "name": "Gleekan Williams",
+        "department": "Road Transport"
+    }
+}
